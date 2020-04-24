@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "www.VidyaSPathanjali.org",
-    "currentPage": "index.html",
+    "currentPage": "contactus.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -46,7 +46,10 @@
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
     "siteUrl": "undefined",
-    "siteFonts": []
+    "siteFonts": [],
+    "publishType": "github",
+    "gitHubName": "pathanjalividya",
+    "gitHubPath": ""
   },
   "pages": {
     "pathanjali.html": {
@@ -5624,7 +5627,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/q3a9269-1-2000x3000.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-q3a9269-1-2000x3000.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/q3a9269-1-2000x3000-800x1200.jpg",
                 "alt": "",
                 "title": "",
@@ -5637,7 +5640,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/q3a0023-1-2000x1333.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-q3a0023-1-2000x1333.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/q3a0023-1-2000x1333-800x533.jpg",
                 "alt": "",
                 "title": "",
@@ -5650,7 +5653,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/q3a9299-2000x1333.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-q3a9299-2000x1333.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/q3a9299-2000x1333-800x533.jpg",
                 "alt": "",
                 "title": "",
@@ -5663,7 +5666,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/q3a9635-1-2000x1333.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-q3a9635-1-2000x1333.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/q3a9635-1-2000x1333-800x533.jpg",
                 "alt": "",
                 "title": "",
@@ -5676,7 +5679,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/q3a9666-2000x1333.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-q3a9666-2000x1333.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/q3a9666-2000x1333-800x533.jpg",
                 "alt": "",
                 "title": "",
@@ -5689,7 +5692,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/q3a9936-1-2000x2663.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-q3a9936-1-2000x2663.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/q3a9936-1-2000x2663-800x1065.jpg",
                 "alt": "",
                 "title": "",
@@ -5702,7 +5705,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/q3a9962-2000x2736.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-q3a9962-2000x2736.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/q3a9962-2000x2736-800x1094.jpg",
                 "alt": "",
                 "title": "",
